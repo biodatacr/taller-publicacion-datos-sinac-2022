@@ -17,12 +17,12 @@ Introducir a los funcionarios del Sistema Nacional de Áreas de Conservación (S
 03. 08:45 a.m. Demostración del IPT (Manuel Vargas)
 
 04. 09:00 a.m. Sesión práctica (parte 1)
-- Descargue los datos de [parcelas permanentes del Catie](datos/catie) en su computadora y realice las modificaciones necesarias para adaptarlos al estándar Darwin Core.
+    - Descargue los datos de [parcelas permanentes del Catie](datos/catie) en su computadora y realice las modificaciones necesarias para adaptarlos al estándar Darwin Core.
 
 05. 09:55 a.m. Receso
 
 06. 10:05 a.m. Sesión práctica (parte 2)
-- Utilice la instalación del IPT de BiodataCR en [http://publicadores.biodiversidad.go.cr:8080/ipt/](http://publicadores.biodiversidad.go.cr:8080/ipt/) para publicar los datos que curó en la sesión anterior. Revise la documentación del conjunto de datos para llenar la sección de metadatos en el IPT.
+    - Utilice la instalación del IPT de BiodataCR en [http://publicadores.biodiversidad.go.cr:8080/ipt/](http://publicadores.biodiversidad.go.cr:8080/ipt/) para publicar los datos que curó en la sesión anterior. Revise la documentación del conjunto de datos para llenar la sección de metadatos en el IPT.
 
 07. 10:50 a.m. Cierre
 
