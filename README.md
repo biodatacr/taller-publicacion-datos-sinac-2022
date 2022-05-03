@@ -10,9 +10,9 @@ Introducir a los funcionarios del Sistema Nacional de Áreas de Conservación (S
 
 00. 08:00 a.m. Introducción (Ángela González y José Alfredo Hernández)
 
-01. 08:15 a.m. [Estándares de datos de biodiversidad](sesion-01-estandares-datos-biodiversidad.pdf) (María Mora)
+01. 08:15 a.m. [Estándares de datos de biodiversidad](presentaciones/sesion-01-estandares-datos-biodiversidad.pdf) (María Mora)
     
-02. 08:30 a.m. [Introducción al IPT](sesion-01-estandares-datos-biodiversidad.pdf) (María Mora)
+02. 08:30 a.m. [Introducción al IPT](presentaciones/sesion-01-estandares-datos-biodiversidad.pdf) (María Mora)
    
 03. 08:45 a.m. Demostración del IPT (Manuel Vargas)
 
