@@ -43,3 +43,5 @@ Introducir a los funcionarios del Sistema Nacional de Áreas de Conservación (S
 [The IPT User Manual](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki#the-ipt-user-manual/)
 * Repositorio en GitHub del IPT  
 [IPT GitHub Repository](https://github.com/gbif/ipt)
+* Vídeo de la demostración
+[IPT video demo](https://youtu.be/E_4ujf0fTlI)
