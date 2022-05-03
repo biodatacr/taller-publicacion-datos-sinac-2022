@@ -26,7 +26,7 @@ Introducir a los funcionarios del Sistema Nacional de Áreas de Conservación (S
 
 ## Recursos adicionales
 ### Conjuntos de datos
-* [Registros de presencia](https://github.com/biodatacr/taller-publicacion-datos/tree/main/datos/presencia)
+* [Parcelas permanentes del Catie](datos/catie)
 
 ### IPT
 * IPT de BiodataCR  
